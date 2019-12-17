@@ -23,3 +23,32 @@ python ruiz/iteracion05.py "FERNAR"
 python ruiz/iteracion05.py "FERNAA"
 python ruiz/iteracion05.py "FERRNA"
 python ruiz/iteracion05.py "FENAR"
+
+python palacios/bucle_iteracion_01.py "a" "b"
+python palacios/bucle_iteracion_01.py "b" "c"
+python palacios/bucle_iteracion_01.py "c" "d"
+python palacios/bucle_iteracion_01.py "d" "a"
+
+
+python palacios/bucle_iteracion_02.py "c" "b"
+python palacios/bucle_iteracion_02.py "b" "m"
+python palacios/bucle_iteracion_02.py "m" "e"
+python palacios/bucle_iteracion_02.py "e" "c"
+
+
+python palacios/bucle_iteracion_03.py "f" "w"
+python palacios/bucle_iteracion_03.py "w" "t"
+python palacios/bucle_iteracion_03.py "t" "i"
+python palacios/bucle_iteracion_03.py "i" "f"
+
+
+python palacios/bucle_iteracion_04.py "s" "c"
+python palacios/bucle_iteracion_04.py "c" "d"
+python palacios/bucle_iteracion_04.py "d" "v"
+python palacios/bucle_iteracion_04.py "v" "s"
+
+
+python palacios/bucle_iteracion_05.py "a" "t"
+python palacios/bucle_iteracion_05.py "t" "h"
+python palacios/bucle_iteracion_05.py "h" "s"
+python palacios/bucle_iteracion_05.py "s" "a"
