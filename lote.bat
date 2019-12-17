@@ -12,3 +12,8 @@ python ruiz/iteracion03.py "LUUSI"
 python ruiz/iteracion03.py "LUIS"
 python ruiz/iteracion03.py "LISU"
 python ruiz/iteracion03.py "USIL"
+
+python ruiz/iteracion04.py "*U%S"
+python ruiz/iteracion04.py "UU**"
+python ruiz/iteracion04.py "U%S*"
+python ruiz/iteracion04.py "UUSS"
